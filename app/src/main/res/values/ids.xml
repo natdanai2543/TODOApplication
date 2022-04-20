@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="edit_text" type="id" />
+    <item name="bt_add" type="id" />
+    <item name="recycler_view" type="id" />
+    <item name="bt_update" type="id" />
+    <item name="text_view" type="id" />
+    <item name="bt_edit" type="id" />
+    <item name="bt_delete" type="id" />
+</resources>
